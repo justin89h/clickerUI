@@ -4,6 +4,7 @@ A user interace with various automation features to aid in playing the game Clic
 
 Requires a little setup at the start of each anscension but is usually capable of running any anscension from start to finish without any human intervention (including FANT).
 
+![Clipboard01](https://user-images.githubusercontent.com/28800851/198580353-e95e31a3-6c23-4590-9aa3-bee6dd2dbdad.png)
 
 * [Setup and Operation](#setup-and-operation)
 * [Interval Features](#interval-features)
@@ -12,21 +13,32 @@ Requires a little setup at the start of each anscension but is usually capable o
 
 ## Setup and Operation
 
-**Step One**
+**Step One: Install Clicker Heroes**
 
-Clicker UI requires the Steam install of Clicker Heroes.
+Clicker UI requires the [Steam version of Clicker Heroes](https://store.steampowered.com/app/363970/Clicker_Heroes).
 After Clicker Heroes is installed, Steam does not need to be running to launch it.
 Download and install Steam if you don't have it already and download and install Clicker Heroes.
 
-**Step Two**
 
-Download and install the latest version of [AutoHotkey][]
+**Step Two: Install AutoHotKey**
 
-**Step Three**
+Download and install the latest version of [AutoHotkey](http://ahkscript.org)
 
-Download the clickerUI.ahk to a location of your choice and run it. It should automatically run Clicker Heroes from the following location. If this location is incorrect, modify it in the ahk file.
+**Step Three: Download and Run ClickerUI**
 
-'C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes\Clicker Heroes.exe'
+Download the clickerUI.ahk to a location of your choice and run it. It should automatically run Clicker Heroes from the below location. If this location is incorrect, modify it in the ahk file.
+
+> C:\Program Files (x86)\Steam\steamapps\common\Clicker Heroes\Clicker Heroes.exe
+
+**Operation**
+
+Set up your desired features and click 'Start' to start the timer running. 
+
+Features will be run at an interval according to to the timer. e.g. a '20' second interval will be run at 20 seconds, 40 seconds, 60 seconds and so on.
+
+<kbd>F4</kbd> can also be used to start/stop the timer as well as the Start/Stop button.
+
+'Reload' is used to reload the script. If any issues happen such as the window being resized, reload the script and it will resolve.
 
 
 ## Interval Features
