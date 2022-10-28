@@ -68,7 +68,7 @@ Assigns gilds to a specific hero. Can be assigned to a long time interval (such 
 
 **Custom 1 and Custom 2**
 
-Manually setup autoclicker. Coordinates can be set. Each one has two locations that are clicked. Useful in a variety of situations, particularly before Autoclickers are purchased. A suggested use could be near the end of an anscension, when only one hero needs to be levelled. Using this instead of 'Level All Heroes' is more efficient, and allows more use of 'Click Monsters'.
+Manually set auto clicks. Coordinates can be set. Each one has two locations that are clicked. Useful in a variety of situations, particularly before Autoclickers are purchased. A suggested use could be near the end of an anscension, when only one hero needs to be levelled. Using this instead of 'Level All Heroes' is more efficient, and allows more use of 'Click Monsters'.
 
 
 ## Special Features
