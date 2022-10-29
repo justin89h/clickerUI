@@ -2,7 +2,7 @@
 
 A user interace with various automation features to aid in playing the game Clicker Heroes.
 
-Requires a little setup at the start of each anscension but is usually capable of running any anscension from start to finish without any human intervention (including FANT).
+Requires a little setup at the start of each ascension but is usually capable of running any ascension from start to finish without any human intervention (including FANT).
 
 Assumes a certain amount of knowledge and some progress in the game already. Some features will not work until you have ascended a couple times. Read the [Clicker Heroes Wiki](https://www.reddit.com/r/ClickerHeroes/wiki/index/) for general game assistance.
 
