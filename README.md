@@ -4,6 +4,8 @@ A user interace with various automation features to aid in playing the game Clic
 
 Requires a little setup at the start of each anscension but is usually capable of running any anscension from start to finish without any human intervention (including FANT).
 
+Assumes a certain amount of knowledge and some progress in the game already. Some features will not work until you have ascended a couple times. Read the [Clicker Heroes Wiki](https://www.reddit.com/r/ClickerHeroes/wiki/index/) for general game assistance.
+
 * [Setup and Operation](#setup-and-operation)
 * [Interval Features](#interval-features)
 * [Special Features](#special-features)
@@ -55,6 +57,7 @@ Essential for the entirety of FANT, and the start of most anscensions.
 **Get All Upgrades**
 
 * Clicks the 'Buy Available Upgrades' button. Will scroll to reach the button as necessary.
+* The 'Buy Available Upgrades' button is unlocked after you have ascended for the second time.
 
 **Skills**
 
